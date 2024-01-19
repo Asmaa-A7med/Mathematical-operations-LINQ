@@ -1,0 +1,15 @@
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\bin\Debug\net6.0\Aggregate.exe
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\bin\Debug\net6.0\Aggregate.deps.json
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\bin\Debug\net6.0\Aggregate.runtimeconfig.json
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\bin\Debug\net6.0\Aggregate.dll
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\bin\Debug\net6.0\Aggregate.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\Aggregate.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\Aggregate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\Aggregate.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\Aggregate.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\Aggregate.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\Aggregate.dll
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\refint\Aggregate.dll
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\Aggregate.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\Aggregate.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\.net track\Linq\Mathematic\Mathematic\obj\Debug\net6.0\ref\Aggregate.dll
